@@ -26,5 +26,35 @@ This project is a Trading Platform built using React.js for the frontend and Spr
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/trading-platform.git
+   git clone https://github.com/DB4558/trading-platform.git
    cd trading-platform
+2. **Configure the database in src/main/resources/application.properties:**
+
+   ```bash
+
+      spring.datasource.url=jdbc:mysql://localhost:3306/educat
+      spring.datasource.username=root
+      spring.datasource.password=yourpassword
+
+3. **Build and run the backend:**
+
+      ```bash
+
+          mvn clean install
+          mvn spring-boot:run
+
+4. **Frontend Setup**
+
+    Clone the repository:
+
+    ```bash
+
+      git clone https://github.com/DB4558/frontend.git
+      cd educat-frontend
+
+5.**Install dependencies and run the frontend:**
+
+   ```bash
+
+       npm install
+       npm start
