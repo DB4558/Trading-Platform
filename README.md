@@ -61,10 +61,6 @@ This project is a Trading Platform built using React.js for the frontend and Spr
 6.**Usage**
 
     Open the browser and navigate to http://localhost:3000.
-    Log in as an admin to manage users, courses, and facilities.
-    Students can register for courses and view their placements.
-    Faculty can manage course details and communicate with students in real time.
-
    
 
        npm install
