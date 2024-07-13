@@ -28,6 +28,12 @@ This project is a Trading Platform built using React.js for the frontend and Spr
    ```bash
    git clone https://github.com/DB4558/trading-platform.git
    cd trading-platform
+### Backend Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/DB4558/backend-springboot.git
+   cd backend-springboot
 2. **Configure the database in src/main/resources/application.properties:**
 
    ```bash
