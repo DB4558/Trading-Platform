@@ -32,7 +32,7 @@ This project is a Trading Platform built using React.js for the frontend and Spr
 
    ```bash
 
-      spring.datasource.url=jdbc:mysql://localhost:3306/trading-platform
+      spring.datasource.url=jdbc:mysql://localhost:3306/backend-springboot
       spring.datasource.username=root
       spring.datasource.password=yourpassword
 
@@ -49,8 +49,8 @@ This project is a Trading Platform built using React.js for the frontend and Spr
 
     ```bash
 
-      git clone https://github.com/DB4558/frontend.git
-      cd educat-frontend
+      git clone https://github.com/DB4558/frontend-react.git
+      cd frontend-react
 
 5.**Install dependencies and run the frontend:**
       ```bash
